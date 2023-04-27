@@ -125,6 +125,15 @@ function App() {
             }
         },
     ]
+    const specializes ={
+        fantasy:"Fantasy",
+        adventure:"Adventure",
+        drama:"Drama",
+        romance:"Romance",
+        action:"Action",
+        family:"Family",
+
+}
 
     return (
         <div className="App">
